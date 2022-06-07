@@ -7,6 +7,6 @@ public class Ssample {
 	@Test
 	public static void hi()
 	{
-		System.out.println("hi");
+		System.out.println("hi...");
 	}
 }
